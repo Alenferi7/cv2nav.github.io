@@ -1,0 +1,52 @@
+body{
+    background-color: antiquewhite;
+}
+
+nav ul{
+    text-align: center;
+}
+
+nav li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 20px;
+}
+
+header{
+    background-color: gray;
+}
+
+header h1{
+    text-align: center;
+    background-color: grey;
+}
+
+header img{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    display: block;
+    margin: auto;
+}
+
+header h2{
+    text-align: center;
+    background-color: grey;
+}
+
+
+main img{
+    display: inline;
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+}
+
+main p{
+    display: inline;
+}
+
+
+
+
+
